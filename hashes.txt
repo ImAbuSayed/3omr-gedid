@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - 3omr Gedid
+
+This log tracks the cryptographic history and versioning for the song **3omr Gedid** (3omr-gedid).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:24:00.055758 | `v1` | `d740ee71036c24999022619a83017b752b40edcd1c5fcc8e15f262d21f9fd24a` | `34bc02034e052e1c1084ee28f2b272d9ce2f4ab3dff9c4b26050b16dd452626c` | `2026-05-09_3omr-gedid-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
